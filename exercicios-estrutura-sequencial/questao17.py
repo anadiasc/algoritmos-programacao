@@ -1,3 +1,5 @@
+# Faça um programa que receba o raio e mostre: o comprimento de uma esfera; b) a área de uma esfera; c) o volume de uma esfera;
+
 raio = float(input("Digite o valor do raio: "))
 pi = 3.14
 comprimento_esfera = 2 * pi * raio

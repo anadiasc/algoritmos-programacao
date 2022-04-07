@@ -1,3 +1,4 @@
+# Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual
 ano_atual = int(input("Digite o ano atual: "))
 ano_nascimento = int(input("Digite o seu ano de nascimento : "))
 
