@@ -21,4 +21,4 @@ elif preco_produto >= 50 and preco_produto <= 100:
 else:
     novo_preco = preco_produto + (preco_produto * 0.15)
     print(f'O novo preco é {novo_preco}')
-    classificacao(novo_preco)
+    classificacao(novo_preco) 
